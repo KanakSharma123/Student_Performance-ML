@@ -47,3 +47,8 @@ Random Forest performed better than Linear Regression in predicting student grad
 - Seaborn
 
 ## Project Structure
+Student_Performance-ML
+- Student_Performance.ipynb
+- student_data.csv
+- requirements.txt
+- README.md
